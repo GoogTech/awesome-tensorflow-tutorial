@@ -1,1 +1,0 @@
-> Refer to this tensorflow course for beginner : https://www.icourse163.org/course/youdao-1460578162
