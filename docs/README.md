@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/github/stars/YUbuntu0109/awesome-tensorflow-tutorial.svg"></img>
 </p>
 
-<p style="text-align:center;font-size:25px;padding-top: 85px">
+<p style="text-align:center;font-size:30px;padding-top: 85px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
 	📃 A curated list of awesome TensorFlow tutorial for beginner
 </p>
