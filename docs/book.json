@@ -33,7 +33,7 @@
             "elements": [".gitbook-link"]
         },
         "insert-logo": {
-            "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+            "url": "https://tensorflow.studynote.life/tf_logo_social.png",
             "style": "background: none; max-height: 45px; min-height: 30px"
         },
         "tbfed-pagefooter": {
